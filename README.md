@@ -1,125 +1,21 @@
-<!--[![Ángel's GitHub Banner](./assets/GitHubCabecera.png)](https://github.com/angelrobp)-->
+<h1 align="center">Hi 👋, I'm Óscar</h1>
+<h3 align="center">A software engineer, who is mainly working in full-stack development.</h3>
 
-[![Visits Badge](https://badges.pufler.dev/visits/angelrobp/angelrobp)](https://github.com/angelrobp)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/angelrobledillo/)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=0e75b6&style=flat" alt="widowert" /> </p>
 
-Hey there 👋
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widowert" alt="widowert" /></a> </p>
 
-I’m Óscar, a software engineer, who is mainly working in full-stack development.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/oog" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oog" height="30" width="40" /></a>
+</p>
 
-<!--Want to know more about me? [Check out my portfolio.](https://github.com/widowert)-->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<!--
-## 📝 Latest Blog Posts
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=widowert&show_icons=true&locale=en&layout=compact" alt="widowert" /></p>
 
-<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=widowert&show_icons=true&locale=en" alt="widowert" /></p>
 
-<!-- BLOG-POST-LIST:START -->
-<!-- - [Título enlace](https://github.com/widowert) -->
-<!-- BLOG-POST-LIST:END -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&" alt="widowert" /></p>
 
-<br>
-
-<!--
-## 📌 Pinned Repositories
-
-<br>
-
-<a href="ENLACEREPO">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=widowert&repo=[NOMBREREPO]&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-<br>
--->
-
-
-
-## &#x1f4c8; GitHub Stats
-
-<br>
-
-<a href="https://github.com/widowert">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=widowert&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<a href="https://github.com/widowert">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Óscar's GitHub Stats" />
-</a>
-
-<br>
-<br>
-
-## 💼 Skills
-
-![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=angular&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-GreenSock-informational?style=flat&logo=GreenSock&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SpringBoot-informational?style=flat&logo=Spring&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=c-sharp&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=.net&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
-
-<details>
-<summary>More Skills</summary>
-<br>
-
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Tailwind-informational?style=flat&logo=Tailwind-CSS&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Style-Stylus-informational?style=flat&logo=Stylus&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Test-Jasmine-informational?style=flat&logo=Jasmine&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Mocha-informational?style=flat&logo=Mocha&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Test-Cypress-informational?style=flat&logo=Cypress&logoColor=white&color=4AB197)
-
-<br>
-
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Pivotal-informational?style=flat&logo=Pivotal-Tracker&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Actions-informational?style=flat&logo=github-actions&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Photoshop-informational?style=flat&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-AdobeXD-informational?style=flat&logo=Adobe-XD&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=GitLab&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Clubhouse-informational?style=flat&logo=Clubhouse&logoColor=white&color=4AB197)
-
-</details>
-
-<br>
-
-<!--
-**widowert/widowert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
