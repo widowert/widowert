@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Óscar</h1>
-<h3 align="center">A software engineer, who is mainly working in full-stack development.</h3>
+<h3 align="center">A software engineer, who is mainly working in full-stack development in the University of Granada.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=0e75b6&style=flat" alt="widowert" /> </p>
 
