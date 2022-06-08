@@ -1,11 +1,11 @@
-<img src="https://github.com/widowert/widowert/raw/main/CABECERAgITHUBoSCAR3.PNG" width="100%">
+<img src="https://github.com/widowert/widowert/raw/main/assets/CABECERAgITHUBoSCARgreen.PNG" width="100%">
 
 <h3 align="center">Hi, I'm Óscar Osorio</h1>
 <h3 align="center">A software engineer, who is mainly working in full-stack development at the University of Granada.</h3>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=cb7203&style=flat" alt="widowert" />
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cb7203" alt="widowert"/> 
+  <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=5fc397&style=flat" alt="widowert" />
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=5fc397" alt="widowert"/> 
 </p>
 
 ## 📊GitHub Stats :
