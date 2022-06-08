@@ -4,18 +4,19 @@
 <h3 align="center">A software engineer, who is mainly working in full-stack development at the University of Granada.</h3>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=0e75b6&style=flat" alt="widowert" />
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="widowert"/> 
+  <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=cb7203&style=flat" alt="widowert" />
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=cb7203" alt="widowert"/> 
 </p>
 
 ## 📊GitHub Stats :
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=vue&hide_border=true" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Óscar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="Óscar's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=dark&hide_border=false" />
 </p>
+
 
 ## 💻Skills
 
