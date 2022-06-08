@@ -8,7 +8,16 @@
   <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="widowert"/> 
 </p>
 
-# 💻Skills
+## 📊GitHub Stats :
+<p align="center">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=vue&hide_border=true" />
+</p>
+
+<p align="center">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&theme=vue&hide_border=true&include_all_commits=true&count_private=true" alt="Óscar's GitHub Stats" />
+</p>
+
+## 💻Skills
 
 ###### :fire: Main Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -53,6 +62,4 @@
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)]()
 
-# 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=widowert&theme=vue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=vue&hide_border=true)<br/>
+
