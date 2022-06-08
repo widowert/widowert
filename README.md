@@ -10,11 +10,11 @@
 
 ## 📊GitHub Stats :
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Óscar's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="Óscar's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=dark&hide_border=false" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=vue&hide_border=false" />
 </p>
 
 
