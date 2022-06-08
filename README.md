@@ -2,7 +2,8 @@
 <h3 align="center">A software engineer, who is mainly working in full-stack development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=0e75b6&style=flat" alt="widowert" /> </p>
-![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)
+
+<p align="left"> <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="widowert" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=widowert" alt="widowert" /></a> </p>
 
