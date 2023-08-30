@@ -8,16 +8,6 @@
   <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=5fc397" alt="widowert"/> 
 </p>
 
-## 📊GitHub Stats :
-<p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="Óscar's GitHub Stats" />
-</p>
-
-<p align="center">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=vue&hide_border=false" />
-</p>
-
-
 ## 💻Skills
 
 <br>
@@ -79,3 +69,12 @@
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/fa33869ccfe6ca304620380cdd7c7b7d647c7bbcb707dd25fcd0bf66be43caa3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130"><img src="https://camo.githubusercontent.com/fa33869ccfe6ca304620380cdd7c7b7d647c7bbcb707dd25fcd0bf66be43caa3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6865726f6b752d2532333433303039382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Heroku" data-canonical-src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&amp;logo=heroku&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;"></a>
 <a href="/widowert/widowert/blob/main"><img src="https://camo.githubusercontent.com/32f249d66e42f3dcd3bd7694adac10a90807b6b7f97c3426c1ee7f95c1ad2180/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d41726475696e6f2d3030393739443f7374796c653d666f722d7468652d6261646765266c6f676f3d41726475696e6f266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d313031303130" alt="Arduino" data-canonical-src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&amp;logo=Arduino&amp;logoColor=white&amp;labelColor=101010" style="max-width: 100%;"></a></p>
 
+
+## 📊GitHub Stats :
+<p align="center">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=widowert&theme=vue&hide_border=false&include_all_commits=true&count_private=true" alt="Óscar's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-streak-stats.herokuapp.com/?user=widowert&theme=vue&hide_border=false" />
+</p>
