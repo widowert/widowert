@@ -6,8 +6,8 @@
 
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=5fc397&style=flat" alt="widowert" />
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=5fc397" alt="widowert"/> 
+  <a href="https://github.com/widowert"><img src="https://komarev.com/ghpvc/?username=widowert&label=Profile%20views&color=5fc397&style=flat" alt="widowert" /></a>
+  <a href="https://www.linkedin.com/in/oog/"><img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=5fc397" alt="widowert"/></a>
 </p>
 
 ## 💻Skills
